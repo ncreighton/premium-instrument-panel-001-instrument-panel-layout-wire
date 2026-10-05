@@ -1,0 +1,2 @@
+# premium-instrument-panel-001-instrument-panel-layout-wire
+Stop wasting hours on chaotic instrument panel layouts and tangled wiring plans. This Notion template transforms your panel design into a structured workshop where every gauge, switch, and wire has a purpose.  Tailored for makers and restorers, this template eliminates guesswork by providing a systematic layout grid, component tracker, and wire cra
